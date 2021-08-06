@@ -18,4 +18,4 @@ def selection_sort(arr):
     return sorted_array
 
 
-print(str(selection_sort([1, 21000, 7001, 11, 44])))
+print(str(selection_sort([1, 21000, 7001, 11])))
